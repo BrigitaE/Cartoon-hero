@@ -1,0 +1,84 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+	align-content: center;
+}
+
+header{
+	background-color: #FCF3CF;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+header h1{
+	color: darkgray;
+	font-size: 55px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 900px;
+	border: 10px solid #EAEA34;
+}
+
+
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 450px;
+}
+
+h2{
+	font-size: 45px;
+	color: darkred;
+	align-content: center;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	alignment-baseline: auto;
+}
+
+a{
+	color: darkred;
+	text-align: center;
+
+}
+a:hover{
+	background-color: lightgreen;
+}
+
+footer{
+	background-color: #FCF3CF;
+	text-align: center;
+	padding: 50px;
+
+}
+
+footer p{
+	margin: 0;
+	align-content: center;
+
+}
+
+footer a{
+	color: black;
+}
+
+footer a:hover{
+	opacity: 5;
+	background-color: white;
+}
