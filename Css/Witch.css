@@ -62,6 +62,10 @@ a:hover{
 	background-color: lightgreen;
 }
 
+ul{
+	align-content: center;
+}
+
 footer{
 	background-color: #FCF3CF;
 	text-align: center;
